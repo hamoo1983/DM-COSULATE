@@ -154,10 +154,10 @@ body{background-repeat:none;
               background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
 }
 
-.im1{width: 150px;height: 100px;}
-.im2{width: 150px;height: 100px;}
-.im3{width: 150px;height: 100px;}
-.im4{width: 150px;height: 100px;}
+.im1{width: 100px;height: 100px;}
+.im2{width: 100px;height: 100px;}
+.im3{width: 100px;height: 100px;}
+.im4{width: 100px;height: 100px;}
 
 #se1 h5{text-shadow: 5px 5px 5px;}
 #se2 h5{text-shadow: 5px 5px 5px;}
