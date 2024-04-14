@@ -57,8 +57,8 @@
                  border-radius: 20px;}
 
 footer{
-      width:100%
-       text-align: center;
+       width:100%
+       text-align:center;
        background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
        background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
        background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
